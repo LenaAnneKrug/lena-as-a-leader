@@ -52,7 +52,6 @@
 * To insure we are executing in a way that is working
 
 ## Me
-* I am plain spoken, but am also diplomatic
 * I care about you
 * I care about results
 * I don't believe in blockers
@@ -66,12 +65,9 @@
 * I will never lie to you, however I may defer the truth because of legal or privacy reasons
 
 ## Work Hours
-* Meetup's Position:
-	* OT Exempt - “As an employee exempt from overtime regulations, we do not specify your start and end times, although you are expected to dedicate your full working time to Meetup (i.e. at least 9 hours per day, 45 hours per week, not including breaks) as well as any additional hours required to complete your work.”
-	* Non-OT Exempt - "We have/will discuss(ed) this and put it into writing"
-* My Position:
-	* Get stuff done, deliver on our goals
-	* Be there when your team needs you
+* Follow company guidelines, but also:
+* Get stuff done, deliver on our goals
+* Be there when your team needs you
 
 ## How are you doing
 * You will know
