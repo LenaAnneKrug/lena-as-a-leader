@@ -68,6 +68,8 @@
 * Follow company guidelines, but also:
 * Get stuff done, deliver on our goals
 * Be there when your team needs you
+* I may message you at anytime, you are not expected to respond except within normal working hours, unless;
+	* You are on call, and I indicate there is need to
 
 ## How are you doing
 * You will know
