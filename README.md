@@ -21,7 +21,7 @@
 * We do stuff that works (it works)
 * We do stuff that provides a benefit (it's working for us, it provides measurable value, or informs us to why it's not)
 
-## Blameless, But Still Accountable
+## Blameless, But Still Responsible
 * We should have no fear in trying new things, or fixing older things
 	* If we do the process is broken, let me know we'll fix it
 * It is ok to fail and to learn
