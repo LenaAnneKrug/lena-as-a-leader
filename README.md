@@ -13,7 +13,7 @@
 ## Direct Responsibility Individual
 * I believe strongly in this principle
 * Everything should have a single owner who is responsible
-* If you are responsible for something and are not going to be available, it is your responsibility to make sure someone is accountable for you
+* If you are responsible for something and are not going to be available, it is your responsibility to make sure someone is responsible for you
 	* If you have an emergency never worry, I've got you covered, always 
 
 ## More Working Code Principle
@@ -26,7 +26,7 @@
 	* If we do the process is broken, let me know we'll fix it
 * It is ok to fail and to learn
 * It is not ok to not deliver
-* See DRI above, if you own something, you are accountable for it
+* See DRI above, if you own something, you are responsible for it
 
 ## Feedback
 * I like feedback, in both directions
