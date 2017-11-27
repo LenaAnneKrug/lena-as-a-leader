@@ -26,6 +26,7 @@
 	* If we do the process is broken, let me know we'll fix it
 * It is ok to fail and to learn
 * It is not ok to not deliver
+* It is ok to point out when someone has made a mistake or error, I favor candid feedback that is done respectfully
 * See DRI above, if you own something, you are responsible for it
 
 ## Feedback
@@ -43,13 +44,14 @@
 	* Walking, Coffee, Lunch etc...
 
 ## My Job
-* I am currently the Director of Platform Engineering at Meetup
-	* See my [Job Role Description](https://github.com/meetup/engineering-roles/blob/master/managers/director_engineering.md)
+* I am currently VP Platform Engineering at Meetup
+	* See my [Job Role Description](https://github.com/meetup/engineering-roles/blob/master/managers/vp_platform_engineering.md)
 * Build and hire a strong team
 * Grow and foster everyone here
 * Provide Context
 * Be the final decision maker when needed
 * To insure we are executing in a way that is working
+* Provide clear technical vision that aligns with our strategic one
 
 ## Me
 * I care about you
