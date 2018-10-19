@@ -1,5 +1,6 @@
-# Lena As A Manager
+# Lena As A Leader
 *This repo allows anyone to submit a PR against it, that is on purpose*
+[See it prettier](https://bit.ly/lenaannekrug-as-a-leader)
 
 ## My Availability
 * Look at my calendar, it is generally 98% accurate
