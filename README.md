@@ -1,5 +1,5 @@
-# Lena As A Leader
-*This repo allows anyone to submit a PR against it, that is on purpose*
+# Lena as a Leader
+*This [repo](https://github.com/LenaAnneKrug/lena-as-a-leader) allows anyone to submit a PR against it, that is on purpose*
 
 [See it prettier](https://bit.ly/lenaannekrug-as-a-leader)
 
