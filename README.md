@@ -1,5 +1,5 @@
 # Lena as a Leader
-*This [repo](https://github.com/LenaAnneKrug/lena-as-a-leader) allows anyone to submit a PR against it, that is on purpose* - [See it prettier](https://bit.ly/lenaannekrug-as-a-leader)
+*This [repo](https://github.com/LenaAnneKrug/lena-as-a-leader) allows anyone to submit a PR against it, that is on purpose*
 
 ## My Availability
 * Look at my calendar, it is generally 98% accurate
