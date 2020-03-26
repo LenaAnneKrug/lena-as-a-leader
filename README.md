@@ -50,8 +50,8 @@
 * I will use this time to coach, mentor, and to find opportunities to sponsor
  
 ## My Job
-* Up until recently I was the [VP of Platform Engineering](https://github.com/meetup/engineering-roles/blob/master/managers/vp_platform_engineering.md) at Meetup, and I am currently VP, Enterprise Technology at Meetup
-* Lead Meetup's Security and Compliance practices
+* Up until recently I was the [VP of Platform Engineering](https://github.com/meetup/engineering-roles/blob/master/managers/vp_platform_engineering.md) at Meetup, and I am currently VP, Systems Technology at Homer
+* Lead Homer's Security and Compliance practices
 * Manage cost of goods sold (COGS) to enable margins and EBITDA
 * Build and hire a strong and highly effective team
 * Grow and foster everyone here
