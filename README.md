@@ -13,7 +13,7 @@
 ## Direct Responsibility Individual
 * I believe strongly in this principle
 * Everything should have a single owner who is responsible and someone who is accountable
-* If you are responsible for something and are not going to be available, it is your responsibility to make sure someone is responsible for you
+* If you are responsible for something and are not going to be available, let me know how can help you find coverage (In an emergency I will manage it)
 * If you are accountable it is your role to make sure the team is focused and following process and standards
  
 ## More Working Code Principle
