@@ -64,7 +64,7 @@
  
 ## Me
 * I care about you
-* I care about results
+* I care about outcomes
 * I don't believe in blockers (things can always be unblocked)
 * I believe in small things that make big things
 * I believe in continuous improvement no matter how small
