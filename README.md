@@ -50,8 +50,10 @@
 * I will use this time to coach, mentor, and to find opportunities to sponsor
  
 ## My Job
-* Up until recently I was the [VP of Platform Engineering](https://github.com/meetup/engineering-roles/blob/master/managers/vp_platform_engineering.md) at Meetup, and I am currently VP, Systems Technology at Homer
-* Lead Homer's Security and Compliance practices
+* I am currently the CTO at [Homer Learning](https://www.learnwithhomer.com)
+* Previously I was the VP of Engineering at Homer Learning
+* Before that I was the [VP of Platform Engineering](https://github.com/meetup/engineering-roles/blob/master/managers/vp_platform_engineering.md) at Meetup
+* Accountable for driving and setting the technical direction and strategy for Homer Learning
 * Manage cost of goods sold (COGS) to enable margins and EBITDA
 * Build and hire a strong and highly effective team
 * Grow and foster everyone here
