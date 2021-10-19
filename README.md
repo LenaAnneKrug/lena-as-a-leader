@@ -51,8 +51,7 @@
  
 ## My Job
 * I am currently the CTO at [Homer Learning](https://www.learnwithhomer.com)
-* Previously I was the VP of Engineering at Homer Learning
-* Before that I was the [VP of Platform Engineering](https://github.com/meetup/engineering-roles/blob/master/managers/vp_platform_engineering.md) at Meetup
+* See my [Linked-In](https://www.linkedin.com/in/lenaannekrug/) for more experience information
 * Accountable for driving and setting the technical direction and strategy for Homer Learning
 * Manage cost of goods sold (COGS) to enable margins and EBITDA
 * Build and hire a strong and highly effective team
