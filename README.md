@@ -30,7 +30,7 @@
 * It is my job to provide a culture that enables autonomy and empowerment
  
 ## Autonomy and Empowerment
-* I believe in [Enabling Bureaucracy](https://www.solutionsiq.com/resource/blog-post/enabling-bureaucracy/). The people that are impacted the most by any Bureaucracy should be able to manage and own that bureaucracy. (No Ivory Towers)
+* I believe in [Enabling Bureaucracy](https://lenak.io/enabling-bureaucracy). The people that are impacted the most by any Bureaucracy should be able to manage and own that bureaucracy. (No Ivory Towers)
 * Teams and Individuals need guardrails in the form expectations, standards, and practices
 * These allow teams to be autonomous and empowered
  
