@@ -69,7 +69,7 @@
 * I don't believe in blockers (things can always be unblocked)
 * I believe in small things that make big things
 * I believe in continuous improvement no matter how small
-* I believe in [Enabling Bureaucracy](https://www.solutionsiq.com/resource/blog-post/enabling-bureaucracy/)
+* I believe in [Enabling Bureaucracy](https://lenak.io/enabling-bureaucracy)
 * I believe in daily goal setting
 * I believe in transparency
 * I believe in the honesty and focus of seeing what we are doing routinely (Retros)
