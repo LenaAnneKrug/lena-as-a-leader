@@ -50,9 +50,9 @@
 * I will use this time to coach, mentor, and to find opportunities to sponsor
  
 ## My Job
-* I am currently the CTO at [Homer Learning](https://www.learnwithhomer.com)
+* I am currently the CTO at [BEGiN Learning](https://www.beginlearning.co)
 * See my [Linked-In](https://www.linkedin.com/in/lenaannekrug/) for more experience information
-* Accountable for driving and setting the technical direction and strategy for Homer Learning
+* Accountable for driving and setting the technical direction and strategy for BEGiN Learning
 * Manage cost of goods sold (COGS) to enable margins and EBITDA
 * Build and hire a strong and highly effective team
 * Grow and foster everyone here
