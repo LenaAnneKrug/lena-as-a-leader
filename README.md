@@ -42,6 +42,7 @@
            * Benefit - feedback should have an outcome, something that will result in a change or indicates why it doesn't
 * I will never "react" to feedback. I will, however, respond to all of it.
 * I will never shame or criticize publicly. I do, however, support you in calling me out publicly when needed.
+* [Radical Candor](https://www.radicalcandor.com)
  
 ## One-on-One Meetings
 * These meetings are important
