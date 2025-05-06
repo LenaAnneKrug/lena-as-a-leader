@@ -51,8 +51,6 @@
 * I will use this time to coach, mentor, and to find opportunities to sponsor
  
 ## My Job
-* I am currently the CTO at [BEGiN Learning](https://www.beginlearning.co)
-* See my [Linked-In](https://www.linkedin.com/in/lenaannekrug/) for more experience information
 * Accountable for driving and setting the technical direction and strategy for BEGiN Learning
 * Manage cost of goods sold (COGS) to enable margins and EBITDA
 * Build and hire a strong and highly effective team
@@ -63,6 +61,7 @@
 * To ensure we are executing and operating in a way that is working
 * Eliminate waste and focus us on things that add value
 * Provide clear mission and strategy
+* See my [Linked-In](https://www.linkedin.com/in/lenaannekrug/) for more experience information
  
 ## Me
 * I care about you
